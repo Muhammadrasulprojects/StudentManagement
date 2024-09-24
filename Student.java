@@ -49,5 +49,6 @@ public class Student {
         for(String hobby : hobbies) {
             System.out.println(hobby);
         }
+        System.out.println("GitHubda o'zgartirildi!");
     }
 }
